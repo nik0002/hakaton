@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+
+
+
+	
+	
+	<title>404</title>
+	
+		<link rel="canonical" href="https://indra-m.ru/__404">
+	
+	<meta name="description" content>
+	<meta name="keywords" content>
+	<meta property="og:title" content="404">
+	
+	<link rel="shortcut icon" href="../favicon_1.ico" type="image/x-icon">
+	<script>
+	window.developmentMode = false;
+	
+</script>
+	
+	
+	<script defer src="../js/modernizr-webp.js"></script><link rel="stylesheet" href="../css/devicePublish.min.css"><link rel="stylesheet" href="../css/bootstrap.min.css"><script async src="../js/performance.js"></script>
+		
+	<link rel="stylesheet" href="../css/srcset-63b7b326ec929f0ef4ef8f35-all.css">
+	
+	
+		
+		
+		
+	
+	
+	
+		<link rel="preload" as="style" href="/sitecss/typography.css?v=11" onload="this.onload=null;this.rel='stylesheet'">
+		<noscript><link rel="stylesheet" href="../css/typography.css"></noscript>
+	
+	
+		<link rel="preload" as="style" id="dist-version-css" href="/dist-version/css/pub.v1.css?v=2022_12_28T09_36_27_03_00_2e63471eb0c141d2dda8b1d7d86c7d376eeead8d" onload="this.onload=null;this.rel='stylesheet'">
+		<noscript><link rel="stylesheet" href="../css/pub.v1.css"></noscript>
+	
+
+	<script>
+		(() => {
+			if (matchMedia('screen and (min-width : 992px)').matches) {
+				document.write(`<link 
+					rel="stylesheet"
+					
+					data-device="desktop"
+					class="styleLink"
+					href="/templates/c_medhelp/css/main-g-theme-site-3-desktop.css"
+				/>`);
+			}
+			if (matchMedia('screen and (min-width: 768px) and (max-width: 991px)').matches) {
+				document.write(`<link 
+					rel="stylesheet"
+					
+					data-device="tablet"
+					class="styleLink"
+					href="/templates/c_medhelp/css/main-g-theme-site-3-tablet.css"
+				/>`);
+			}
+			if (matchMedia('screen and (max-width : 768px)').matches) {
+				document.write(`<link 
+					rel="stylesheet"
+					
+					data-device="phone"
+					class="styleLink"
+					href="/templates/c_medhelp/css/main-g-theme-site-3-phone.css"
+				/>`);
+			}
+		})();
+	</script>
+
+	<noscript>
+
+<link rel="stylesheet" href="../css/main-g-theme-site-3-desktop.css" media="screen and (min-width : 992px)">
+
+<link rel="stylesheet" href="../css/main-g-theme-site-3-tablet.css" media="screen and (min-width: 768px) and (max-width: 991px)">
+
+<link rel="stylesheet" href="../css/main-g-theme-site-3-phone.css" media="screen and (max-width : 768px)"></noscript><style data-styled="true" data-styled-version="5.0.1"></style><style data-styled="true" data-styled-version="5.0.1"></style><style data-styled="true" data-styled-version="5.0.1"></style><style data-styled="true" data-styled-version="5.0.1"></style><link type="text/css" rel="stylesheet" href="../css/font-awesome.min.css"><link type="text/css" rel="stylesheet" href="../css/fontawesome-brand.min.css">
+
+</head>
+<body>
+	
+	
+	
+	<div id="main">
+		<div id="body" class="g-theme-site-3" data-mode="published" data-site-theme="g-theme-site-3">
+			<div id="body-fict" class="g-theme-block-1 ul-page-special-404" data-theme-block="{"desktop":"g-theme-block-1", "tablet":"g-theme-block-1", "phone":"g-theme-block-1"}" data-block_theme="g-theme-block-1" style data-parallax="none">
+				
+				
+
+
+
+<header class="
+					js-hidden-device-element hidden-elements-device " data-device-hidden="{"desktop":false,"tablet":false,"phone":false}" data-theme-block="{"desktop":"g-theme-block-1","tablet":"g-theme-block-1","phone":"g-theme-block-1"}">
+   <div class="contact-bar">
+        <div class="container">          
+          <div class="pull-left">
+            <div class="top-widget-bar">
+                
+            </div>              
+          </div>
+          <div class="pull-right">
+              <div class="top-social-bar">
+                       
+              </div>                  
+          </div>    
+        </div>
+    </div>    
+
+	<div class="l-top">
+		<div class="container">
+			<div class="logo-head col-xs-12 col-sm-12 col-md-5 col-lg-4">
+        <div data-icon-set id="ul-id-icon-siteLogo" class="ul-widget ul-widget-icon text-center" data-device-hidden="{&quot;desktop&quot;:false,&quot;phone&quot;:false,&quot;tablet&quot;:false}" data-widget="icon" data-controls="e">
+
+
+
+
+
+	
+		
+			<a target="_self" href="/">
+		
+		
+	
+			 
+					<picture><source type="image/webp" media="(min-width: 1366px)" srcset="../images/full_6EVyS2Uu.png"><source media="(min-width: 1366px)" srcset="../images/full_6EVyS2Uu.png"><source type="image/webp" media="(min-width: 1170px)" srcset="../images/full_6EVyS2Uu.png"><source media="(min-width: 1170px)" srcset="../images/full_6EVyS2Uu.png"><source type="image/webp" media="(min-width: 992px)" srcset="../images/full_6EVyS2Uu.png"><source media="(min-width: 992px)" srcset="../images/full_6EVyS2Uu.png"><source type="image/webp" media="(min-width: 768px)" srcset="../images/full_6EVyS2Uu.png"><source media="(min-width: 768px)" srcset="../images/full_6EVyS2Uu.png"><source type="image/webp" media="(min-width: 360px)" srcset="../images/full_6EVyS2Uu.png"><source media="(min-width: 360px)" srcset="../images/full_6EVyS2Uu.png"> <img class="icon-generator-effects ul-w-icon-size-32" src="../images/full_6EVyS2Uu.png" loading="lazy" decoding="async"></picture>
+			
+		
+	
+
+		</a>
+	
+
+</div>
+			  
+			</div>
+      <div class="menu-head col-xs-12 col-sm-12 col-md-7 col-lg-8">
+			  <div data-fixed="false" data-bgColor="0" data-bgtransparent="100" data-version="1" id="ul-id-mainmenu-main" class="ul-widget ul-w-mainmenu" data-device-hidden="{&quot;desktop&quot;:false,&quot;phone&quot;:false,&quot;tablet&quot;:false}" data-widget="mainmenu" data-controls="e">
+
+	<div class="ul-w-mainmenu-showButton">
+		<span></span>
+		<span></span>
+		<span></span>
+	</div>
+	<div class="ul-w-mainmenu-nav" style="opacity: 0;">
+		 <div class="ul-w-mainmenu-item "> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/" data-type="page" target="_self">Главная</a></div> <div class="ul-w-mainmenu-item  ul-w-mainmenu-have-nasted  ul-w-mainmenu-have-nested"> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/about" data-type="page" target="_self">О нас</a><div class="ul-w-mainmenu-nested"> <div class="ul-w-mainmenu-item "> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/vrachi2" data-type="page" target="_self">Врачи</a></div> <div class="ul-w-mainmenu-item "> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/vrachi2_2" data-type="page" target="_self">Средний мед.персонал</a></div> <div class="ul-w-mainmenu-item "> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/pravovaia_inf" data-type="page" target="_self">Правовая информация</a></div> <div class="ul-w-mainmenu-item "> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/contacts" data-type="page" target="_self">Контакты</a></div> <div class="ul-w-mainmenu-item "> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/konsultatsii_spiets_2" data-type="page" target="_self">Вакансии</a></div></div></div> <div class="ul-w-mainmenu-item  ul-w-mainmenu-have-nasted  ul-w-mainmenu-have-nested"> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/services" data-type="page" target="_self">Услуги</a><div class="ul-w-mainmenu-nested"> <div class="ul-w-mainmenu-item "> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/price" data-type="page" target="_self">Прейскурант цен</a></div> <div class="ul-w-mainmenu-item  ul-w-mainmenu-have-nasted  ul-w-mainmenu-have-nested"> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/konsultatsii_spiets" data-type="page" target="_self">Консультация специалистов</a><div class="ul-w-mainmenu-nested"> <div class="ul-w-mainmenu-item "> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/tierapievt" data-type="page" target="_self">Терапевт</a></div> <div class="ul-w-mainmenu-item "> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/giniekologh" data-type="page" target="_self">Гинеколог</a></div> <div class="ul-w-mainmenu-item "> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/khirurgh" data-type="page" target="_self">Хирург</a></div> <div class="ul-w-mainmenu-item "> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/otolaringhologh" data-type="page" target="_self">Отоларинголог</a></div> <div class="ul-w-mainmenu-item "> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/oftalmologh" data-type="page" target="_self">Офтальмолог</a></div> <div class="ul-w-mainmenu-item "> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/nievrologh" data-type="page" target="_self">Невролог</a></div> <div class="ul-w-mainmenu-item "> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/diermatovienierologh" data-type="page" target="_self">Дерматовенеролог</a></div> <div class="ul-w-mainmenu-item "> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/gastroentierologh" data-type="page" target="_self">Гастроэнтеролог</a></div></div></div> <div class="ul-w-mainmenu-item "> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/mieditsinskiie_osmotry" data-type="page" target="_self">Медицинские осмотры</a></div> <div class="ul-w-mainmenu-item "> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/laboratorissl" data-type="page" target="_self">Лаборатор.иссл.</a></div> <div class="ul-w-mainmenu-item "> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/uzi" data-type="page" target="_self">УЗИ</a></div> <div class="ul-w-mainmenu-item "> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/dnievnoi_statsionar" data-type="page" target="_self">Дневной стационар</a></div></div></div> <div class="ul-w-mainmenu-item "> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/news" data-type="page" target="_self">Новости</a></div> <div class="ul-w-mainmenu-item "> <a class="normal js-w-mainmenu ul-w-mainmenu-item-link" href="/kardiologh" data-type="page" target="_self">Кардиолог</a></div><div class="ul-w-mainmenu-toggle-button"><span></span><span></span><span></span></div>
+		<div class="ul-w-mainmenu-toggle">
+			<a class="ul-w-mainmenu-toggle-more normal">Еще</a>
+			<div class="ul-w-mainmenu-toggle-nasted"></div>
+		</div>
+	</div>
+
+
+
+
+</div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div id="ul-content">
+	<div id="ul-id-special-404_block" class="ul-container g-theme-block-1" style data-theme="g-theme-block-1" data-bgtype="color" data-options data-map-settings data-parallax="none" data-theme-block="{&quot;desktop&quot;:&quot;g-theme-block-1&quot;,&quot;tablet&quot;:&quot;g-theme-block-1&quot;,&quot;phone&quot;:&quot;g-theme-block-1&quot;}">
+    
+    
+    
+    <div class="container special-404-design1">
+	<div class="col col-xs-12 col-sm-12 col-sm-offset-0 col-md-offset-2 col-md-8 col-lg-offset-2 col-lg-8">
+		<h1 class="special-404-big">404</h1>
+		<div class="row">
+			<div class="col col-xs-12 col-sm-12 col-md-12">
+				<div spellcheck="false" placeholder="_" data-tag="span" data-widget="header" id="ul-id-special-404_header" class="ul-widget ul-widget-wysivig-header" data-device-hidden="{&quot;desktop&quot;:false,&quot;phone&quot;:false,&quot;tablet&quot;:false}" data-controls="uer"><div spellcheck="false">
+	<div class="ul-header-editor clearfix ul-header-wrap" placeholder="placeholder" style="outline:none; word-wrap: break-word; margin: 0 5px">
+		
+			<h2>Запрашиваемая страница не&nbsp;найдена</h2>
+		
+	</div>
+</div>
+</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col col-xs-12 col-sm-12 col-md-12">
+				
+					
+					<div id="ul-id-special-404_text" class="ul-widget  " type="wysiwyg" data-device-hidden="{"desktop":false,"phone":false,"tablet":false}">
+					<div id="ul-id-special-404_text" class="sc-AxjAm StDqM ul-widget-wysivig ul-wysivig-editor "><p>Возможно вы&nbsp;ошиблись в&nbsp;адресе или страница была перемещена. Вы&nbsp;можете вернуться на&nbsp;главную, или воспользоваться меню.</p></div>
+					</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col col-xs-12 col-sm-12 col-md-12">
+				<div id="ul-id-special-404_button" class="ul-widget ul-w-button text-center" data-device-hidden="{&quot;desktop&quot;:false,&quot;phone&quot;:false,&quot;tablet&quot;:false}" data-widget="button" data-controls="ue">
+<a class="normal ul-w-button1 middle" target="_self" href="/">На главную</a>
+</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+    
+</div>
+</div>
+
+<footer class=" js-hidden-device-element hidden-elements-device
+				" data-device-hidden="{"desktop":false,"tablet":false,"phone":false}" data-theme-block="{"desktop":"g-theme-block-1","tablet":"g-theme-block-1","phone":"g-theme-block-1"}">
+    <div class="footer-middle">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-xs-12">
+                    <div class="logo-head">
+                    <div data-icon-set id="ul-id-icon-siteLogo2" class="ul-widget ul-widget-icon text-center" data-device-hidden="{&quot;desktop&quot;:false,&quot;phone&quot;:false,&quot;tablet&quot;:false}" data-widget="icon" data-controls="e">
+
+
+
+
+
+	
+		
+			<a target="_self" href="/">
+		
+		
+	
+			 
+					<picture><source type="image/webp" media="(min-width: 1366px)" srcset="../images/full_6EVyS2Uu.png"><source media="(min-width: 1366px)" srcset="../images/full_6EVyS2Uu.png"><source type="image/webp" media="(min-width: 1170px)" srcset="../images/full_6EVyS2Uu.png"><source media="(min-width: 1170px)" srcset="../images/full_6EVyS2Uu.png"><source type="image/webp" media="(min-width: 992px)" srcset="../images/full_6EVyS2Uu.png"><source media="(min-width: 992px)" srcset="../images/full_6EVyS2Uu.png"><source type="image/webp" media="(min-width: 768px)" srcset="../images/full_6EVyS2Uu.png"><source media="(min-width: 768px)" srcset="../images/full_6EVyS2Uu.png"><source type="image/webp" media="(min-width: 360px)" srcset="../images/full_6EVyS2Uu.png"><source media="(min-width: 360px)" srcset="../images/full_6EVyS2Uu.png"> <img class="icon-generator-effects ul-w-icon-size-32" src="../images/full_6EVyS2Uu.png" loading="lazy" decoding="async"></picture>
+			
+		
+	
+
+		</a>
+	
+
+</div>
+                    <div spellcheck="false" placeholder="_" data-tag="span" data-widget="header" id="ul-id-header-siteName2" class="ul-widget ul-widget-wysivig-header" data-device-hidden="{&quot;desktop&quot;:false,&quot;phone&quot;:false,&quot;tablet&quot;:false}" data-controls="e"><div spellcheck="false">
+	<div class="ul-header-editor clearfix ul-header-wrap" placeholder="placeholder" style="outline:none; word-wrap: break-word; margin: 0 5px">
+		
+			<span class="ul-w-header-span h1"><span class="g-color-text-2">Обращение в поликлинику «Индр­­­­­­а-М» - это п­­ервый шаг на пути к Вашему здоровью!</span><br></span>
+		
+	</div>
+</div>
+</div>
+                    </div>
+                    
+					
+					<div id="ul-id-wysiwyg-footerabout" class="ul-widget  " type="wysiwyg" data-device-hidden="{"desktop":false,"phone":false,"tablet":false}">
+					<div id="ul-id-wysiwyg-footerabout" class="sc-AxjAm StDqM ul-widget-wysiwyg "><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="_17fgIIn___block normal" data-block="true" data-editor="f68sj" data-offset-key="8hs5e-0-0"><div data-offset-key="8hs5e-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="8hs5e-0-0" style="color:#666666;text-decoration-color:#666666"><span data-text="true">Уже много лет мы занимаемся лечением опасных вирусных заболеваний. В состав нашей команды входят лучшие доктора России. Мы всегда рады сотрудничать.</span></span></div></div></div></div></div></div></div>
+					</div>
+                </div>
+                <div class="col-md-4 col-xs-12">
+                    <div itemscope id="ul-id-contacts-bottom" class="ul-widget ul-w-contacts" data-device-hidden="{&quot;desktop&quot;:false,&quot;phone&quot;:false,&quot;tablet&quot;:false}" data-widget="contacts" data-controls="e">
+
+
+
+<div id="id-contacts-schema-item" itemprop="itemReviewed" class="ul-w-contacts-design1 ul-w-contacts-custom-design1" itemscope itemtype="http://schema.org/Organization">
+	<meta itemprop="name" content="Обращение в поликлинику «Индр­­­­­­а-М» - это п­­ервый шаг на пути к Вашему здоровью!">
+	
+	
+		
+		<!-- ============== LAYOUT 1 ============== -->
+		
+			<div class="ul-w-contacts-item" data-item-id="146a02c1-348e-4eca-9c38-b3d4359c2d8c">
+				<div class="ul-w-contacts-list">
+					
+						<span class="ul-w-contacts-item-title h2">НАШ ОФИС</span>
+					
+					
+						<ul>
+							
+								<li class="ul-w-contacts-f-phone normal">
+									
+									
+									<a id="ul-w-contacts-phoneLink" class="ul-w-contacts-phoneLink" href="tel:+7(3012)-25-22-33"><span itemprop="telephone"><span>+7(3012)-25-22-33</span></span></a>, <a id="ul-w-contacts-phoneLink" class="ul-w-contacts-phoneLink" href="tel:+7(9025)63-64-64"><span itemprop="telephone">+7(9025) 63-64-64</span></a>
+									
+									
+								</li>
+							
+								<li class="ul-w-contacts-f-address normal" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+									
+									
+									<span>ООО &quot;Индра-М&quot;</span>,&nbsp;<span itemprop="addressLocality">г. Улан-Удэ</span>,&nbsp;<span itemprop="streetAddress">ул. Заиграевская, дом. 20</span>
+									
+									
+								</li>
+							
+								<li class="ul-w-contacts-f-email normal">
+									
+									
+									<a href="mailto:indra-m@bk.ru"><span itemprop="email">indra-m@bk.ru</span></a>
+									
+									
+								</li>
+							
+						</ul>
+					
+				</div>
+				
+			</div>
+		
+		<!-- ============== LAYOUT 1 ============== -->
+	
+</div>
+</div>
+                    <div class="bot-social-bar">
+                        <div data-options data-widget="social" id="ul-id-social-bar2" class="ul-widget ul-w-social ul-w-social-design1 ul-w-social-custom-design1" data-device-hidden="{&quot;desktop&quot;:false,&quot;phone&quot;:false,&quot;tablet&quot;:false}" data-controls="e" style="text-align:left; ">
+
+	
+	<span class="ul-w-social-icons" style="display: inline-block;">
+		<!-- NOTE: if 'ul-w-social-icon ul-w-social-<name>' changes, update edit.js -->
+		
+			
+		
+			
+			<span class="ul-w-social-item">
+				<a href="https://vk.com/poliklinikaindra" class="ul-w-social-icon ul-w-social-vkontakte ul-w-social-icon-active" target="_blank"></a>
+			</span>
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	</span>
+</div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-xs-12">
+                    <div data-options="{&quot;name&quot;:{&quot;kind&quot;:&quot;name&quot;,&quot;title&quot;:&quot;&quot;,&quot;show&quot;:false,&quot;required&quot;:false,&quot;placeholder&quot;:&quot;&quot;,&quot;selectList&quot;:[]},&quot;email&quot;:{&quot;kind&quot;:&quot;email&quot;,&quot;title&quot;:&quot;&quot;,&quot;show&quot;:true,&quot;required&quot;:true,&quot;placeholder&quot;:&quot;&quot;,&quot;selectList&quot;:[]},&quot;theme&quot;:{&quot;kind&quot;:&quot;theme&quot;,&quot;title&quot;:&quot;&quot;,&quot;show&quot;:false,&quot;required&quot;:false,&quot;placeholder&quot;:&quot;&quot;,&quot;selectList&quot;:[]},&quot;phone&quot;:{&quot;kind&quot;:&quot;phone&quot;,&quot;title&quot;:&quot;&quot;,&quot;show&quot;:false,&quot;required&quot;:false,&quot;placeholder&quot;:&quot;&quot;,&quot;selectList&quot;:[]},&quot;message&quot;:{&quot;kind&quot;:&quot;large&quot;,&quot;title&quot;:&quot;&quot;,&quot;show&quot;:true,&quot;required&quot;:true,&quot;placeholder&quot;:&quot;&quot;,&quot;selectList&quot;:[]},&quot;attachments&quot;:{&quot;title&quot;:&quot;&quot;,&quot;show&quot;:false,&quot;required&quot;:false,&quot;placeholder&quot;:&quot;&quot;},&quot;captcha&quot;:{&quot;kind&quot;:&quot;small&quot;,&quot;title&quot;:&quot;&quot;,&quot;show&quot;:false,&quot;required&quot;:false,&quot;placeholder&quot;:&quot;&quot;,&quot;selectList&quot;:[]},&quot;userAgreement&quot;:{&quot;isActive&quot;:false,&quot;isAutoChecked&quot;:false,&quot;label&quot;:&quot;&quot;},&quot;orientation&quot;:&quot;vertical&quot;,&quot;header&quot;:{&quot;show&quot;:true,&quot;title&quot;:&quot;НАПИШИТЕ НАМ&quot;},&quot;afterMail&quot;:&quot;Спасибо !&quot;,&quot;style&quot;:&quot;simple&quot;,&quot;design&quot;:&quot;default&quot;,&quot;inputs&quot;:[{&quot;kind&quot;:&quot;name&quot;,&quot;title&quot;:&quot;&quot;,&quot;show&quot;:false,&quot;required&quot;:false,&quot;placeholder&quot;:&quot;&quot;,&quot;selectList&quot;:[],&quot;_id&quot;:&quot;5dfac956ac0ddd65b0a6c456&quot;},{&quot;kind&quot;:&quot;email&quot;,&quot;title&quot;:&quot;&quot;,&quot;show&quot;:true,&quot;required&quot;:true,&quot;placeholder&quot;:&quot;&quot;,&quot;selectList&quot;:[],&quot;_id&quot;:&quot;5dfac956ac0ddd65b0a6c457&quot;},{&quot;kind&quot;:&quot;theme&quot;,&quot;title&quot;:&quot;&quot;,&quot;show&quot;:false,&quot;required&quot;:false,&quot;placeholder&quot;:&quot;&quot;,&quot;selectList&quot;:[],&quot;_id&quot;:&quot;5dfac956ac0ddd65b0a6c458&quot;},{&quot;kind&quot;:&quot;phone&quot;,&quot;title&quot;:&quot;&quot;,&quot;show&quot;:false,&quot;required&quot;:false,&quot;placeholder&quot;:&quot;&quot;,&quot;selectList&quot;:[],&quot;_id&quot;:&quot;5dfac956ac0ddd65b0a6c459&quot;},{&quot;kind&quot;:&quot;large&quot;,&quot;title&quot;:&quot;&quot;,&quot;show&quot;:true,&quot;required&quot;:true,&quot;placeholder&quot;:&quot;&quot;,&quot;selectList&quot;:[],&quot;_id&quot;:&quot;5dfac956ac0ddd65b0a6c45a&quot;}],&quot;submitCaption&quot;:&quot;отправить&quot;,&quot;version&quot;:2}" data-goals-data id="ul-id-feedBack-footerform" class="ul-widget ul-widget-feedBack clearfix default ul-widget-feedBack-vertical" data-device-hidden="{&quot;desktop&quot;:false,&quot;phone&quot;:false,&quot;tablet&quot;:false}" data-widget="feedBack" data-controls="e">
+
+
+<form class="feedBack" action="/api/feedBack" method="post" role="form" data-version="2" data-css-version="2">
+	<input type="hidden" ul-model="_id" name="_id" value="63b7b327ec929f0ef4ef926c">
+	
+	
+	<div class="ul-widget-feedBack-form-group ul-widget-feedBack-header has-feedback">
+		<div class="ul-w-feedBack-editable ul-w-feedBack-title h3" data-name="header.title">НАПИШИТЕ НАМ
+		</div>
+	</div>
+	
+	<div class="ul-widget-feedBack-wrapper" data-inputs-count="2">
+		
+			<div class="ul-widget-feedBack__items-wrapper ul-widget-feedBack__items-wrapper-inputs">
+				
+					
+				
+					
+						
+							<div class="ul-widget-feedBack-form-group has-feedback">
+								<!-- htmlmin:ignore -->
+								<!--noindex-->
+								<!--googleoff: all-->
+									<div class="ul-w-feedBack-control-label ul-w-feedBack-editable normal" data-i="1">E-mail
+									</div>
+								<!--googleon: all-->
+								<!--/noindex-->
+								<!-- htmlmin:ignore -->
+								<div class="ul-widget-feedBack-form-control-wrapper">
+									<input class="ul-widget-feedBack-form-control normal" type="text" name="inputs.field1" placeholder="E-mail" ul-model="inputs.1" data-kind="email" data-index="1" required>
+									
+		<span class="ul-widget-feedBack-required-indicator normal">*</span>
+	
+								</div>
+							</div>
+						
+					
+				
+					
+				
+					
+				
+					
+						
+							<div class="ul-widget-feedBack-form-group has-feedback">
+								<!-- htmlmin:ignore -->
+								<!--noindex-->
+								<!--googleoff: all-->
+									<div class="ul-w-feedBack-control-label ul-w-feedBack-editable ul-editor-wrapper clearfix normal" data-i="4" spellcheck="false">
+										Ваше сообщение
+									</div>
+								<!--googleon: all-->
+								<!--/noindex-->
+								<!-- htmlmin:ignore -->
+								<div class="ul-widget-feedBack-form-control-wrapper">
+									<textarea class="ul-widget-feedBack-form-control normal" name="inputs.field4" ul-model="inputs.4" rows="3" placeholder="Ваше сообщение" data-kind="large" data-index="4" required></textarea>
+									
+		<span class="ul-widget-feedBack-required-indicator normal">*</span>
+	
+								</div>
+							</div>
+						
+					
+				
+				
+			</div>
+		
+		
+		
+		
+		<div class="ul-widget-feedBack-form-group button-wrapper">
+			<button type="submit" class="ul-w-button1 ul-w-downloadFile-showButton ul-w-feedBack-submit middle" disabled data-name="submitTitle">
+				Отправить
+			</button>
+		</div>
+		<div class="alert ul-widget-feedBack-responce note" style="display: none;" role="alert" data-error-email="Неверно введён адрес E-mail." data-error-phone="Неверно введён номер телефона."></div>
+	</div>
+</form>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="footer-sub">
+	<div class="container">
+		<div class="pull-left">
+			
+					
+					<div id="ul-id-wysiwyg-copyright1" class="ul-widget  " type="wysiwyg" data-device-hidden="{"desktop":false,"phone":false,"tablet":false}">
+					<div id="ul-id-wysiwyg-copyright1" class="sc-AxjAm StDqM ul-widget-wysiwyg "><div class="DraftEditor-root"><div class="DraftEditor-editorContainer"><div class="public-DraftEditor-content" contenteditable="false" spellcheck="false" style="outline:none;user-select:text;-webkit-user-select:text;white-space:pre-wrap;word-wrap:break-word"><div data-contents="true"><div class="_17fgIIn___block normal" data-block="true" data-editor="6io0k" data-offset-key="8cfvg-0-0"><div data-offset-key="8cfvg-0-0" class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr"><span data-offset-key="8cfvg-0-0"><span data-text="true">Индра-М</span></span></div></div></div></div></div></div></div>
+					</div>
+		</div>
+		<div class="pull-right">
+		    <!-- 
+					
+					<div
+					
+					
+					id="ul-id-wysiwyg-subscibe" class="ul-widget  " type="wysiwyg" data-device-hidden='{"desktop":false,"phone":false,"tablet":false}'>
+					<div id="ul-id-wysiwyg-subscibe" class="sc-AxjAm StDqM ul-widget-wysivig ul-wysivig-editor "><h2 style="text-align: left;">Заголовок</h2><p style="text-align: left;">Вы можете выбрать <span style="font-style: italic">стиль текста</span>, его <span style="font-weight: bold">начертание</span> и <span class="g-color-text-3">цвет</span>…</p></div>
+					</div> -->	
+		</div>
+	</div>
+</div>
+</footer>
+
+				
+				<div class="ul-col ul-absolute-widgets">
+					
+				</div>
+
+				
+					<div class="ul-project-copyright ul-project-copyright-dark">
+	
+		 <a href="https://ukit.com/ru?utm_source=ukit_new_copyright" target="_blank"></a>
+	
+</div>
+				
+
+			</div>
+		</div>
+	</div>
+	
+	
+	
+	
+	<div id="upbutton-container" class="ul-upbutton" style>
+		<div class="ul-upbutton-icon"></div>
+	</div>
+
+	
+	
+	
+	
+	
+		<div id="js-captchaPublicKey" data-key="6LfX8f4SAAAAAFw7fF08_dNTAmDV61y_OqTK0a71" style="display: none;"></div>
+	
+	
+	
+	
+	
+	
+	
+	<script src="../js/requirejs.min.js"></script>
+	
+	<script>window.cache = {"site":"knzakgo44","siteUrl":"knzakgo44","isMainLanding":null,"isULanding":false,"page":"__404","isPublished":false,"template":"c_medhelp","isExistCustomHtml":false,"isScaling":true,"scaleImages":{"images":"all","minDate":"2017-11-07T14:30:00.000Z","templates":null,"webp":1,"defaultQuality":85,"overrideQuality":null,"splitBy":"page","quality":85},"homeClusterDomain":"ukit.com","isRemove":{"header":false,"footer":false},"_hiddenWidgets":{"ul-id-icon-siteLogo2":false,"ul-id-mainmenu-main":false,"ul-id-header-siteName":true,"ul-id-icon-siteLogo":false,"ul-id-social-bar":true,"ul-id-contacts-top":true,"ul-id-wysiwyg-copyright1":false,"ul-id-header-siteName2":false,"ul-id-feedBack-footerform":false,"ul-id-wysiwyg-footerabout":false,"ul-id-contacts-bottom":false,"ul-id-social-bar2":false},"publishedForm":{"maxFileSize":5,"maxFilesCount":20,"allowedMimeTypes":["^text/(plain)$","^image/(png|jpe?g|gif|bmp|x-bmp|x-ms-bmp)$","^application/(vnd.*document|msword|pdf|zip)$"]},"feedback":{"maxFileSize":24,"maxFilesCount":20,"allowedMimeTypes":["^text/(plain)$","^image/(png|jpe?g|gif|bmp|x-bmp|x-ms-bmp)$","^application/(vnd.*document|msword|pdf|zip)$"]},"backgroundParams":{},"googleMapsApiKey":"","yandexMapsApiKey":"","yandexMapsApiKeyEnabled":true,"isScreenshotMode":false,"googleEmbedMapsApiKey":"AIzaSyDSOw3TYN-VvZPNAHs4ItKzdr62LqXuJuM","animation":{"isEnabled":true,"excludedPages":[],"kind":"fadeIn","speed":1},"lazyLoad":{"enabled":true,"range":3},"isDynamicRequireConfEnabled":true,"feedBack":{"i18n":{"widgets.feedBack.name":"Обратная связь","all.required field":" Обязательные поля","constructor.too big sum size":"Общая сумма загрузки файлов {sumSize} Мб больше допустимой {maxSumSize} Мб","constructor.too big file":"Файл {fileName} слишком большой. Максимум: {size} МБ","constructor.wrong file type":"Неверный тип файла {fileName}. Можно загрузить txt, docx, pdf, jpeg, png, gif, bmp, zip","constructor.too many files":{"[0-9]*(0|5|6|7|8|9)$":"Слишком много файлов. Максимальное количество {count} файлов","[0-9]*(1)$":"Слишком много файлов. Максимальное количество {count} файл","[0-9]*(2|3|4)$":"Слишком много файлов. Максимальное количество {count} файла","(11|12|13|14|15|16|17|18|19)$":"Слишком много файлов. Максимальное количество {count} файлов"},"constructor.too empty file":"Пустой файл","widgets.feedBack.error":{"email":"Неверно введён адрес E-mail.","phone":"Неверно введён номер телефона.","name":"Неверно указано имя отправителя.","theme":"Неверно указана тема сообщения.","message":"Неверно введено сообщение.","inputs":"Одно из полей заполнено неверно.","site_empty":"Сайт не опознан.","user_email_empty":"e-mail получателя не указан или не подтвержден","data_empty":"Форма не заполнена.","invalid_instance":"Неопознанная инстанция виджета.","captcha_failed":"Ошибка в проверочном коде.","generic":"Форма заполнена неверно.","receiver_email":"Не похоже на e-mail, форма работать не будет"}},"ul-id-feedBack-footerform":{"data":{"customClasses":[],"goals":{"yandex":{"isEnabled":false,"name":"","identifier":"send-feedback","goalId":"","worth":1,"action":"Action","category":"Forms"},"google":{"isEnabled":false,"name":"","identifier":"send-feedback","goalId":"","worth":1,"action":"Action","category":"Forms"}}},"opts":{"name":{"kind":"name","title":"","show":false,"required":false,"placeholder":"","selectList":[]},"email":{"kind":"email","title":"","show":true,"required":true,"placeholder":"","selectList":[]},"theme":{"kind":"theme","title":"","show":false,"required":false,"placeholder":"","selectList":[]},"phone":{"kind":"phone","title":"","show":false,"required":false,"placeholder":"","selectList":[]},"message":{"kind":"large","title":"","show":true,"required":true,"placeholder":"","selectList":[]},"attachments":{"title":"","show":false,"required":false,"placeholder":""},"captcha":{"kind":"small","title":"","show":false,"required":false,"placeholder":"","selectList":[]},"userAgreement":{"isActive":false,"isAutoChecked":false,"label":""},"orientation":"vertical","header":{"show":true,"title":"НАПИШИТЕ НАМ"},"afterMail":"Спасибо !","receiver":{"emails":"","isOwner":true},"style":"simple","design":"default","inputs":[{"kind":"name","title":"","show":false,"required":false,"placeholder":"","selectList":[],"_id":"5dfac956ac0ddd65b0a6c456"},{"kind":"email","title":"","show":true,"required":true,"placeholder":"","selectList":[],"_id":"5dfac956ac0ddd65b0a6c457"},{"kind":"theme","title":"","show":false,"required":false,"placeholder":"","selectList":[],"_id":"5dfac956ac0ddd65b0a6c458"},{"kind":"phone","title":"","show":false,"required":false,"placeholder":"","selectList":[],"_id":"5dfac956ac0ddd65b0a6c459"},{"kind":"large","title":"","show":true,"required":true,"placeholder":"","selectList":[],"_id":"5dfac956ac0ddd65b0a6c45a"}],"submitCaption":"отправить","version":2}},"config":{"legacyMatch":{"name":"name","email":"email","theme":"theme","phone":"phone","message":"large"},"legacyInvertMatch":{"name":"name","email":"email","theme":"theme","phone":"phone","large":"message"},"isEnabledVersion2":true,"recaptchaV2":{"frontApiUrl":"https://www.google.com/recaptcha/api.js","clientKey":"6LfSdcMUAAAAAJZkHvXRY6iWzMfFCbTSyPSJyD7K"}}}}</script>
+	
+	
+	<script>
+		window.VERSION = '2022_12_28T09_36_27_03_00_2e63471eb0c141d2dda8b1d7d86c7d376eeead8d';
+	</script>
+	
+	
+	<script>
+		window.constructorMode = false;
+		window.previewMode = false;
+		window.backupPreviewMode = false;
+		window.neowizardPreviewMode = false;
+		window.cache.headerFooterTheme = "g-theme-block-0 g-theme-block-1";
+		window.cache.isRequireConfLoaded = false;
+		window.cache.isNewRequireConf = true;
+		
+			window.requireFullConfOnce = function(callback) {
+				var eventListener = function () {
+					window.removeEventListener('requireFullConf', eventListener);
+					callback();
+				};
+				window.addEventListener('requireConfReady', eventListener);
+				var requireFullConfEvent = document.createEvent('Event');
+				requireFullConfEvent.initEvent('requireFullConf', true, true);
+				window.dispatchEvent(requireFullConfEvent);
+			};
+		
+	</script>
+	
+	
+	
+	<script>
+	var widgetsData = [];
+	
+	function getSafeWidgetsData() {
+		var base64 = "W3siaWQiOiJ1bC1pZC1zcGVjaWFsLTQwNF9idXR0b24iLCJ0eXBlIjoiYnV0dG9uIiwiY29udHJvbHMiOiJ1ZSJ9LHsiaWQiOiJ1bC1pZC1jb250YWN0cy10b3AiLCJ0eXBlIjoiY29udGFjdHMiLCJmaWVsZCI6ImNvbnRhY3RzIiwiY29udHJvbHMiOiJlIn0seyJpZCI6InVsLWlkLWNvbnRhY3RzLWJvdHRvbSIsInR5cGUiOiJjb250YWN0cyIsImZpZWxkIjoiY29udGFjdHMiLCJjb250cm9scyI6ImUifSx7ImlkIjoidWwtaWQtZmVlZEJhY2stZm9vdGVyZm9ybSIsInR5cGUiOiJmZWVkQmFjayIsImNvbnRyb2xzIjoiZSJ9LHsiaWQiOiJ1bC1pZC1zcGVjaWFsLTQwNF9oZWFkZXIiLCJ0eXBlIjoiaGVhZGVyIiwiY29udHJvbHMiOiJ1ZXIifSx7ImlkIjoidWwtaWQtc3BlY2lhbC00MDRfaGVhZGVyMiIsInR5cGUiOiJoZWFkZXIiLCJjb250cm9scyI6InVlIn0seyJpZCI6InVsLWlkLWhlYWRlci1zaXRlTmFtZSIsInR5cGUiOiJoZWFkZXIiLCJmaWVsZCI6InNpdGVOYW1lIiwiY29udHJvbHMiOiJlIn0seyJpZCI6InVsLWlkLWhlYWRlci1zaXRlTmFtZTIiLCJ0eXBlIjoiaGVhZGVyIiwiZmllbGQiOiJzaXRlTmFtZSIsImNvbnRyb2xzIjoiZSJ9LHsiaWQiOiJ1bC1pZC1zcGVjaWFsLTQwNF9pY29uIiwidHlwZSI6Imljb24iLCJjb250cm9scyI6InVlciJ9LHsiaWQiOiJ1bC1pZC1pY29uLXNpdGVMb2dvIiwidHlwZSI6Imljb24iLCJmaWVsZCI6ImxvZ28iLCJjb250cm9scyI6ImUifSx7ImlkIjoidWwtaWQtaWNvbi1zaXRlTG9nbzIiLCJ0eXBlIjoiaWNvbiIsImZpZWxkIjoibG9nbyIsImNvbnRyb2xzIjoiZSJ9LHsiaWQiOiJ1bC1pZC1tYWlubWVudS1tYWluIiwidHlwZSI6Im1haW5tZW51IiwiZmllbGQiOiJtZW51IiwiY29udHJvbHMiOiJlIn0seyJpZCI6InVsLWlkLXNvY2lhbC1iYXIiLCJ0eXBlIjoic29jaWFsIiwiZmllbGQiOiJzb2NpYWwiLCJjb250cm9scyI6ImUifSx7ImlkIjoidWwtaWQtc29jaWFsLWJhcjIiLCJ0eXBlIjoic29jaWFsIiwiZmllbGQiOiJzb2NpYWwiLCJjb250cm9scyI6ImUifSx7ImlkIjoidWwtaWQtd3lzaXd5Zy1mb290ZXJhYm91dCIsInR5cGUiOiJ3eXNpd3lnIiwiY29udHJvbHMiOiJlIn0seyJpZCI6InVsLWlkLXd5c2l3eWctc3Vic2NpYmUiLCJ0eXBlIjoid3lzaXd5ZyIsImNvbnRyb2xzIjoiZSJ9LHsiaWQiOiJ1bC1pZC1zcGVjaWFsLTQwNF90ZXh0IiwidHlwZSI6Ind5c2l3eWciLCJjb250cm9scyI6InVlciJ9LHsiaWQiOiJ1bC1pZC13eXNpd3lnLWNvcHlyaWdodDEiLCJ0eXBlIjoid3lzaXd5ZyIsImZpZWxkIjoiY29weXJpZ2h0IiwiY29udHJvbHMiOiJlIn1d";
+		
+		if ( ! widgetsData.length ) {
+			try {
+				widgetsData = JSON.parse(decodeURIComponent(escape(window.atob(base64))));
+			} catch(e) {}
+		}
+		
+		return widgetsData;
+	}
+</script>
+	
+	
+	
+	<script>
+		var widgetsDeps = {"button":"widget-button-view","contacts":"widget-contacts-view","feedBack":"widget-feedBack-view","icon":"widget-icon-view","mainmenu":"widget-mainmenu-view","social":"widget-social-view"};
+		var widgetsDepsPaths = {"button":{"widget-button-view":"widgets/button/js/view","greenJs":{"viewName":"widget-button-view","viewPath":"widgets/button/js/view"}},"contacts":{"widget-contacts-view":"widgets/contacts/js/view","greenJs":{"viewName":"widget-contacts-view","viewPath":"widgets/contacts/js/view"}},"feedBack":{"widget-feedBack-view":"widgets/feedBack/js/view","greenJs":{"viewName":"widget-feedBack-view","viewPath":"widgets/feedBack/js/view"}},"icon":{"widget-icon-view":"widgets/icon/js/view","greenJs":{"viewName":"widget-icon-view","viewPath":"widgets/icon/js/view"}},"mainmenu":{"widget-mainmenu-view":"widgets/mainmenu/js/view","greenJs":{"viewName":"widget-mainmenu-green-view","viewPath":"widgets/mainmenu/js/greenView"}},"social":{"widget-social-view":"widgets/social/js/view","greenJs":{"viewName":"widget-social-view","viewPath":"widgets/social/js/view"}}};
+		
+		
+	</script>
+
+	
+		<script>
+			const state = {
+				initial: true,
+				desktop: false,
+				tablet: false,
+				phone: false,
+			}
+			window.onresize = resize;
+	
+			const currentDevice = document.querySelector('.styleLink').getAttribute('data-device');
+			state[currentDevice] = true;
+	
+			function resize () {
+				if(!state.initial) {
+					if (matchMedia('screen and (min-width : 992px)').matches && !state.desktop) {
+						addTagLinkToHead('/templates/c_medhelp/css/main-g-theme-site-3-desktop.css');
+						state.desktop = true;
+					}
+					if (matchMedia('screen and (min-width: 768px) and (max-width: 991px)').matches && !state.tablet) {
+						addTagLinkToHead('/templates/c_medhelp/css/main-g-theme-site-3-tablet.css')
+						state.tablet = true;
+					}
+					if (matchMedia('screen and (max-width : 768px)').matches && !state.phone) {
+						addTagLinkToHead('/templates/c_medhelp/css/main-g-theme-site-3-phone.css');
+						state.phone = true;
+					}
+				}
+				state.initial = false;
+			}
+	
+			function addTagLinkToHead(href) {
+				const isCecutient = false;
+				const tagLink = document.createElement('link');
+				tagLink.rel = 'stylesheet';
+				tagLink.href = href;
+				if (isCecutient) tagLink.class = 'js-style-main';
+				document.head.appendChild(tagLink);
+			}
+		</script>
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+		
+		
+		
+	
+	
+	<script async src="../js/cssrelpreload.js"></script><script defer src="../js/critical.js"></script><script id="orderform-fallback" defer src="../js/orderForm.js"></script><script defer src="../js/calcHeaderHeight.js"></script><script defer src="../js/upbutton.js"></script><script defer src="../js/backgroundBlockColor.js"></script><script async src="../js/headerFooter.js"></script>
+	
+	
+		<script>
+	(function (w) {
+		if ( ! w.analyticsHandlers) {
+			w.analyticsHandlers = {};
+		}
+		
+		
+		
+		w.analyticsHandler = function () {
+			var
+				args = Array.prototype.slice.call(arguments),
+				counterPath = args.shift(),
+				counterMethod = args.shift();
+			
+			if (w.analyticsHandlers[counterPath]) {
+				var
+					counterHandler = window[w.analyticsHandlers[counterPath]];
+				
+				if (
+					counterHandler &&
+					typeof counterHandler === 'function'
+				) {
+					
+					counterHandler.apply(counterHandler, args);
+				
+				} else if (
+					counterHandler &&
+					typeof counterHandler[counterMethod] === 'function'
+				) {
+					
+					counterHandler[counterMethod].apply(counterHandler, args);
+					
+				}
+			}
+		};
+		
+		w.analyticsHandler.getCookie = function getCookie(e){var o=document.cookie.match(RegExp("(?:^|; )"+e.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g,"\\$1")+"=([^;]*)"));return o?decodeURIComponent(o[1]):void 0};
+		w.analyticsHandler.setCookie = function setCookie(e,o,t){t=t||{};var n=t.expires;if("number"==typeof n&&n){var i=new Date;i.setTime(i.getTime()+1e3*n),n=t.expires=i}n&&n.toUTCString&&(t.expires=n.toUTCString()),o=encodeURIComponent(o);var r=e+"="+o;for(var c in t){r+="; "+c;var a=t[c];a!==!0&&(r+="="+a)}document.cookie=r};
+	})(window);
+</script>
+	
+</body>
+</html>

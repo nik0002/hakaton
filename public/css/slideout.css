@@ -1,0 +1,278 @@
+/* SlideOutMenu Start */
+
+.slideout-panel {
+    position: relative;
+    z-index: 2;
+}
+
+.slideout-open,
+.slideout-open body,
+.slideout-open .slideout-panel {
+    overflow: hidden;
+}
+
+.slideout-open .slideout-menu {
+    display: block;
+}
+
+.btn-hamburger {
+    border: none;
+    outline: none;
+    background: transparent;
+    float: left;
+}
+
+.c-hamburger {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    width: 38px;
+    height: 32px;
+    margin-left: 10px;
+    margin-top: 10px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    cursor: pointer;
+}
+
+.c-hamburger:focus {
+    outline: none;
+}
+
+.c-hamburger span {
+    display: block;
+    position: absolute;
+    top: 16px;
+    left: 0px;
+    right: 0px;
+    height: 4px;
+    background: #333;
+}
+
+.c-hamburger span::before,
+.c-hamburger span::after {
+    position: absolute;
+    display: block;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background-color: #333;
+    content: "";
+}
+
+.c-hamburger span::before {
+    top: -12px;
+}
+
+.c-hamburger span::after {
+    bottom: -12px;
+}
+
+.c-hamburger span {
+    transition: background 0s 0.3s;
+}
+
+.c-hamburger span::before,
+.c-hamburger span::after {
+    transition-duration: 0.3s, 0.3s;
+    transition-delay: 0.3s, 0s;
+}
+
+.c-hamburger span::before {
+    transition-property: top, transform;
+}
+
+.c-hamburger span::after {
+    transition-property: bottom, transform;
+}
+
+.mobile-menu-open {}
+
+.slideout-open .c-hamburger span,
+.mobile-menu-open .c-hamburger span {
+    background: none !important;
+}
+
+.slideout-open .c-hamburger span::before,
+.mobile-menu-open .c-hamburger span::before {
+    top: 0;
+    transform: rotate(45deg);
+}
+
+.slideout-open .c-hamburger span::after,
+.mobile-menu-open .c-hamburger span::after {
+    bottom: 0;
+    transform: rotate(-45deg);
+}
+
+.slideout-open .c-hamburger span::before,
+.slideout-open .c-hamburger span::after,
+.mobile-menu-open .c-hamburger span::before,
+.mobile-menu-open .c-hamburger span::after {
+    transition-delay: 0s, 0.3s;
+}
+
+.panel-header {
+    width: 100%;
+    height: 54px;
+    z-index: 210;
+    top: 0;
+    left: 0;
+    background: #fff;
+    display: none;
+    position: fixed;
+    backface-visibility: hidden;
+    border-bottom: 1px solid #333;
+}
+
+.panel-header .logo {
+    position: absolute;
+    left: 47%;
+    margin-left: -15px;
+    top: 5px;
+    font-size: 0;
+}
+
+.panel-header .logo a {
+    text-decoration: none;
+}
+
+.panel-header .info {
+    padding-top: 8px;
+    float: right;
+    margin-right: 10px;
+    text-align: right;
+}
+
+.panel-header .phone {}
+
+.panel-header .phone a {
+    font-size: 20px;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.panel-header .email {
+    line-height: 20px;
+
+}
+
+.panel-header .email a {
+    font-size: 17px;
+    color: #fff;
+    text-decoration: underline !important;
+}
+
+.slideout-menu {
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+    width: 256px;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    display: none;
+    background: #2e3c4c;
+    border-right: 1px solid #fff;
+
+}
+
+@media (max-width: 1023px) {
+    body.mobile-menu-open {
+        overflow: hidden;
+    }
+}
+
+.mobile-menu-open .mobile-menu {
+    top: 0;
+    opacity: 1;
+}
+
+.mobile-menu {
+    position: fixed;
+    top: -100%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding-top: 54px;
+    z-index: 202;
+    opacity: 0;
+    overflow-y: auto;
+    display: none;
+    -webkit-overflow-scrolling: touch;
+    background: #ebf6f7;
+    -webkit-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+}
+.mobile-menu-links .lk-link {
+    margin-bottom: 0;
+}
+.mobile-menu-links .lk-link a {
+    text-decoration: none;
+}
+.mobile-menu > ul > li {
+    border: 2px solid #fff;
+    margin: 5px;
+}
+
+.mobile-menu li a {
+    display: block;
+    padding: 5px 38px 5px 11px;
+    position: relative;
+    text-decoration: none;
+    color: #333;
+    font-size: 16px;
+    -webkit-transition: none;
+    -o-transition: none;
+    transition: none;
+}
+.mobile-menu li a:after {
+    content: '';
+    display: block;
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    -webkit-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    background: url(../images/arrow-r-b.png) no-repeat center center;
+    width: 9px;
+    height: 9px;
+    -webkit-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+}
+.mobile-menu li.active > a {
+    font-weight: bold;
+    background: #fff;
+}
+
+.mobile-menu li ul a {
+    padding-left: 25px;
+    text-transform: none;
+}
+
+.mobile-menu .lk-menu {
+    height: auto;
+    padding: 15px 15px 0;
+    font-size: 20px;
+}
+
+.mobile-menu .lk-menu ul {
+    right: auto;
+    left: 0;
+    z-index: 211;
+}
+
+.mobile-menu .accaunt-info {
+    padding-left: 15px;
+}
+
+/* SlideOutMenu End */

@@ -1,0 +1,16 @@
+{
+  "name": "hakaton1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Script1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "node-google-translate-skidz": "^1.1.2",
+    "openai": "^3.2.1"
+  }
+}

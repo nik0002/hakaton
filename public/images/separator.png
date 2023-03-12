@@ -1,0 +1,910 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-236409058-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-236409058-1');
+</script>
+    <meta charset="UTF-8">
+    <link href="favicon.png" rel="shortcut icon" type="image/vnd.microsoft.icon">
+    <meta name="viewport" content="wilih=device-wilih, initial-scale=1.0">
+    <meta name="yandex-verification" content="66ee25537bf31a88">
+<script src="//code-ya.jivosite.com/widget/WhYV3rVzZ6" async></script>
+    <!-- <title>404 Not Found</title>-->
+    <title>Диагрупп</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i|Roboto:300,300i,400,400i,500,500i,700,700i&amp;subset=cyrillic" rel="stylesheet">
+
+    <script src="../js/ipay.js"></script><script>  var ipay = new IPAY({api_token: 'vnvtn50qjbd3g522sd5prdab85'});  </script>    <link rel="stylesheet" href="../css/slick.css" type="text/css">
+    <link rel="stylesheet" href="../css/jquery.arcticmodal.css" type="text/css">
+    <link rel="stylesheet" href="../css/jquery.formstyler.css" type="text/css">
+    <link rel="stylesheet" href="../css/jquery.scrollbar.css" type="text/css">
+    <link rel="stylesheet" href="../css/swipebox.css" type="text/css">
+    <link rel="stylesheet" href="../css/style_3.css" type="text/css">
+    <link rel="stylesheet" href="../css/slideout.css" type="text/css">
+    <link rel="stylesheet" href="../css/tablet.css" type="text/css">
+    <link rel="stylesheet" href="../css/phone.css" type="text/css">
+    <link rel="stylesheet" href="../css/my_3.css" type="text/css">
+    <link rel="stylesheet" href="../css/styledmd.css" type="text/css">
+
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="../css/kernel_main_v1.css" type="text/css" rel="stylesheet">
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1678477278','USER_TZ_OFFSET':'18000','USER_TZ_AUTO':'Y','bitrix_sessid':'62686ca65d14f68d4e70c95235da840d'});</script>
+
+
+<script type="text/javascript" src="../js/kernel_main_v1.js"></script>
+<script type="text/javascript" src="../js/kernel_main_polyfill_promise_v1.js"></script>
+<script type="text/javascript" src="../js/loadext.min.js"></script>
+<script type="text/javascript" src="../js/extension.min.js"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/json/json2.min.js','/bitrix/js/main/core/core_ls.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_popup.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/polyfill/promise/js/promise.js']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/core/css/core_popup.css','/bitrix/js/main/core/css/core_date.css']); </script>
+
+
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "8ffc7ae4b46aa086df10715fc3ff73f7"]); _ba.push(["host", "www.diagrouprb.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+        	
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130032104-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-130032104-1');
+    </script>
+
+
+    <script src="../js/jquery.min.js"></script>
+    <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript"></script>
+    <script src="../js/api.js"></script>
+
+    <script type="text/javascript">!function () {
+            var t = document.createElement("script");
+            t.type = "text/javascript", t.async = !0, t.src = "https://vk.com/js/api/openapi.js?160", t.onload = function () {
+                VK.Retargeting.Init("VK-RTRG-361774-hDh7K"), VK.Retargeting.Hit()
+            }, document.head.appendChild(t)
+        }();</script>
+    <noscript><img src="https://vk.com/rtrg?p=VK-RTRG-361774-hDh7K" style="position:fixed; left:-999px;" alt>
+    </noscript>
+
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '966013957092223');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=966013957092223&amp;ev=PageView&amp;noscript=1"></noscript>
+    <!-- End Facebook Pixel Code -->
+</head>
+<body class="main-page">
+
+<div style="display: none;">
+	<div class="box-modal" id="modal-napriem">
+		<div class="box-modal_close arcticmodal-close">
+			 x
+		</div>
+		<div class="box-modal_inner">
+			<div class="title">
+				 Запишитесь на прием
+			</div>
+			<p>
+				 Вы можете записаться на прием с помощью сайта
+			</p>
+			<form class="zapiz_na_priem">
+ <input type="hidden" name="ss">
+				<div class="field">
+ <input class="input_name" type="text" name="nn" placeholder="Ваше имя *" required>
+				</div>
+				<div class="field">
+					<div class="tabs">
+						<div class="tabs-titles">
+							<div data-tab="1" class="tabs-title active">
+								 <!--<i></i>-->Телефон
+							</div>
+							 <!--<div class="tabs-titles-text">или</div>
+                            <div data-tab="2" class="tabs-title"><i></i>Email</div>-->
+						</div>
+						<div class="tabs-contents">
+							<div data-tab="1" class="tabs-content active">
+ <input name="pp" class="input_tel" type="tel" required placeholder="+7 (___) ___-__-__">
+							</div>
+							 <!--<div data-tab="2" class="tabs-content"><input name="ee" type="email" placeholder="Email"></div>-->
+						</div>
+					</div>
+				</div>
+				 <!--<label>Желаемое время визита:</label>
+                <div class="field field-col2">
+                    <input name="dd" type="text" required placeholder="Дата">
+                    <input name="dt" type="text" required placeholder="Время">
+                </div>-->
+				<div class="field">
+ <textarea name="tt" class="input_message" required placeholder="Ваше сообщение *"></textarea>
+				</div>
+				<div class="accept">
+					 *Обращаем Ваше внимание, что основанием подтверждения даты и времени приёма является обратный звонок нашего оператора.
+				</div>
+				 <!--<div class="captcha"><img src="/local/templates/main/img/capthca.jpg" alt=""></div>--> <input type="submit" value="Записаться">
+			</form>
+		</div>
+	</div>
+</div>
+<div style="display: none;">
+	<div class="box-modal box-modal-thanks" id="modal-thanks">
+		<div class="box-modal_close arcticmodal-close">
+			 x
+		</div>
+		<div class="box-modal_inner">
+			<div class="title">
+				 Спасибо!
+			</div>
+			<div class="caption">
+				 Ваша заявка принята!
+			</div>
+			<p>
+				 В ближайшее время с вами свяжется оператор для подтверждения информации.
+			</p>
+			<div class="button button-org button-close">
+ <a href="#">Закрыть</a>
+			</div>
+		</div>
+	</div>
+</div>
+<div style="display: none;">
+	<div class="box-modal box-modal-thanks" id="modal-answer">
+		<div class="box-modal_close arcticmodal-close">
+			 x
+		</div>
+		<div class="box-modal_inner">
+			<div class="title">
+				 Запрос выполнен
+			</div>
+			<p>
+			</p>
+			<div class="button button-org button-close">
+ <a href="#">Закрыть</a>
+			</div>
+		</div>
+	</div>
+</div>
+<div style="display: none;">
+	<div class="box-modal box-modal-lk" id="modal-lk">
+		<div class="box-modal_close arcticmodal-close">
+			 x
+		</div>
+		<div class="box-modal_inner">
+			<div class="title">
+				 Личный кабинет
+			</div>
+			<form id="loggin">
+				<div class="field">
+ <label>Логин *</label><input name="ll" type="user" required>
+				</div>
+				<div class="field">
+ <label>Пароль *</label><input name="pp" type="password" required>
+				</div>
+				<div class="accept">
+ <label><input type="checkbox" name="personal" required checked>Согласен на обработку и хранение <a href="https://diagrouprb.ru/upload/iblock/a35/a358214f497a2fe2efaaf238c58897be.doc">персональных данных *</a></label>
+				</div>
+ <input type="submit" value="Войти">
+			</form>
+			<div id="confirm_code" style="display: none; margin-top: 30px;">
+				<p>
+					 На ваш номер телефона отправлен код подтверждения
+				</p>
+				<form style="display: flex; flex-wrap: wrap;">
+ <input name="code" style="max-width: 140px; margin-right: 20px" type="text" required> <input type="submit" value="Отправить">
+				</form>
+			</div>
+			<div class="error-box">
+				 Неверный логин или пароль
+			</div>
+		</div>
+	</div>
+</div>
+ <br>
+<div class="social-fixed">
+<!--
+    <a target="__blank" href="https://vk.com/diagrouprb" class="vk">
+        <img src="/local/templates/main/img/vk.png" alt="">
+    </a>
+
+    <a target="__blank" href="https://www.facebook.com/diagrouprb/" class="fb">
+        <img src="/local/templates/main/img/fb.png" alt="">
+    </a>
+-->
+    <a target="__blank" href="https://ok.ru/diamedrb" class="ok">
+        <img src="ok.png" alt>
+    </a>
+<!--
+    <a target="__blank" href="https://www.instagram.com/diagroup_rb/" class="inst">
+        <img src="/local/templates/main/img/inst.png" alt="">
+    </a>
+-->
+    <a target="__blank" href="viber://pa?chatURI=adminmd" class="viber">
+        <img src="viber.png" alt>
+    </a>
+
+</div>
+
+<div class="panel-header fixed-header">
+    <button class="btn-hamburger js-slideout-toggle"><span class="c-hamburger"><span></span></span></button>
+
+    <div class="info">
+        <div class="search-link"><a href="#"><span class="sl-l">Поиск</span>
+            <span class="sl-r" onclick="jQuery.arcticmodal('close');jQuery('#modal-napriem').arcticmodal()"><i>Запись онлайн</i></span></a>
+        </div>
+    </div>
+
+    <div class="mobile-lk-btn">
+                    <a class="modal-btn" onclick="jQuery.arcticmodal('close');jQuery('#modal-lk').arcticmodal()" href="#">Личный
+                кабинет</a>
+            </div>
+</div>
+<div class="mobile-menu">
+    <div class="mobile-menu-links">
+        <div class="all-sections">
+            <div class="all-sections-link">Все разделы</div>
+            <div class="all-sections-close">Закрыть</div>
+        </div>
+        <div class="eye-link"><a href="#"></a></div>
+        <div class="lk-link">
+                            <a class="modal-btn" onclick="jQuery.arcticmodal('close');jQuery('#modal-lk').arcticmodal()" href="#">Личный
+                    кабинет</a>
+                        <br>
+              <a href="/pay/">Оплата онлайн</a>  
+        </div>
+
+    </div>
+    <ul>
+        <li><a href="/service/">Услуги</a></li>
+        <li><a href="/spec/">Специалисты</a></li>
+        <li><a href="/offices/">Филиалы</a></li>
+        <li>
+            <a href="/about/">Клиника</a>
+            <ul>
+                <!--<li><a href="/about/">О сети</a></li>-->
+                <li><a href="/docs/">Информация для пациентов</a></li>
+                <li><a href="/price/">Прейскурант цен</a></li>
+                <li><a href="/vacancy/">Вакансии</a></li>
+                <li><a href="/feed/">Отзывы</a></li>
+				<li><a href="/postavshchikam/">Поставщикам</a></li>
+				<li><a href="/mobilnoe-prilozhenie/">Мобильное приложение</a></li>
+            </ul>
+        </li>
+        <li><a href="/news/">Новости и статьи</a>
+            <ul>
+                <li><a href="/news/">Новости</a></li>
+                <li><a href="/articles/">Статьи</a></li>
+                <li><a href="/video/">Видео</a></li>
+                <li><a href="/events/akcii/">Акции</a></li>
+            </ul>
+        </li>
+        <li><a href="/check_up/">Check Up</a></li>
+    </ul>
+</div>
+
+<main>
+
+    <div class="bad">
+    <div class="wrap">
+        <div class="bad__params fl-l">
+            <div class="bad__params__name fl-l">
+                Размеры шрифта
+            </div>
+            <div class="bad__params__value fl-l">
+                <div class="bad__font__size fl-l bad__minus">-</div>
+                <div class="bad__font__size fl-l bad__plus">+</div>
+            </div>
+        </div>
+        <div class="bad__params fl-l">
+            <div class="bad__params__name fl-l">
+                Цвет
+            </div>
+            <div class="bad__params__value fl-l">
+                <div class="bad__color fl-l bad-white font-medium" data-value="bad-white">
+                    Ц
+                </div>
+                <div class="bad__color fl-l bad-black font-medium" data-value="bad-black">
+                    Ц
+                </div>
+                <div class="bad__color fl-l bad-blue font-medium" data-value="bad-blue">
+                    Ц
+                </div>
+            </div>
+        </div>
+        <div class="bad__params fl-l">
+            <div class="bad__params__name fl-l">
+                Изображение
+            </div>
+            <div class="bad__params__value fl-l">
+                <div class="bad__image fl-l font-medium" data-value>
+                    Вкл
+                </div>
+                <div class="bad__image fl-l font-medium" data-value="bad__noimage">
+                    Выкл
+                </div>
+            </div>
+        </div>
+        <div class="bad__params fl-l">
+            <a href class="from_bad_to_normal">Обычная версия</a>
+        </div>
+        <div class="bad__params fl-r">
+            <div class="bad__settings">
+                <button>Настройки</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="bad__more__settings">
+
+        <div class="bad__more__settings__item">
+            <div class="bad__more__settings__title fl-l">
+                Шрифт
+            </div>
+            <div class="bad__more__settings__values fl-l">
+                <div class="bad__more__settings__value bad__fontfamily fl-l" data-value>
+                    Arial
+                </div>
+                <div class="bad__more__settings__value bad__fontfamily fl-l" data-value="bad__font__roman">
+                    Times New Roman
+                </div>
+            </div>
+        </div>
+        <div class="bad__more__settings__item">
+            <div class="bad__more__settings__title fl-l">
+                Межбуквенный интервал
+            </div>
+            <div class="bad__more__settings__values fl-l">
+                <div class="bad__more__settings__value bad__spacing fl-l" data-value>
+                    Стандартный
+                </div>
+                <div class="bad__more__settings__value bad__spacing medium-spacing fl-l" data-value="medium-spacing">
+                    Средний
+                </div>
+                <div class="bad__more__settings__value bad__spacing high-spacing fl-l" data-value="high-spacing">
+                    Большой
+                </div>
+            </div>
+        </div>
+        <div class="bad__more__settings__item">
+            <div class="bad__more__settings__title fl-l">
+                Цветовая схема
+            </div>
+            <div class="bad__more__settings__values fl-l">
+                <div class="bad__more__settings__value bad__more__settings__color current bad-white fl-l" data-value="bad-white">
+                    Черным по белому
+                </div>
+                <div class="bad__more__settings__value bad__more__settings__color bad-black fl-l" data-value="bad-black">
+                    Белым по черному
+                </div>
+                <div class="bad__more__settings__value bad__more__settings__color bad-blue fl-l" data-value="bad-blue">
+                    Темно-синим по голубому
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+    <div class="to-top">
+        <div class="to-top-text">Наверх</div>
+    </div>
+
+    <header class="header ">
+        <div class="all-sections-menu">
+            <div class="all-sections-top">
+                <div class="wrap">
+                    <div class="all-sections-top-inner">
+                        <div class="search">
+                            <form action="/search/">
+                                <input name="q" type="text" placeholder="Поиск">
+                                <button type="submit"></button>
+                            </form>
+                        </div>
+                        <div class="close">Закрыть меню</div>
+                    </div>
+                </div>
+            </div>
+            <div class="all-sections-bot">
+                <div class="wrap">
+                    <div class="all-sections-bot-inner">
+                        <dl>
+                            <dt>Услуги</dt>
+
+                            
+
+    <dd>
+                    <a href="/service/analizy/">Анализы</a>
+            </dd>
+
+
+    <dd>
+                    <a href="/service/ginekologiya/">Гинекология</a>
+            </dd>
+
+
+    <dd>
+                    <a href="/service/konsultatsii-spetsialistov/">Консультации специалистов </a>
+            </dd>
+
+
+    <dd>
+                    <a href="/service/stomatologiya/">Стоматология</a>
+            </dd>
+
+
+    <dd>
+                    <a href="/service/uzi/">УЗИ</a>
+            </dd>
+
+
+    <dd>
+                    <a href="/service/urologiya/">Урология</a>
+            </dd>
+
+
+    <dd>
+                    <a href="/service/lechenie-besplodiya-vrt-eko/">Лечение бесплодия (ВРТ/ЭКО)</a>
+            </dd>
+
+
+    <dd>
+                    <a href="/service/klinika-vedeniya-beremennosti/">Клиника ведения беременности</a>
+            </dd>
+
+
+    <dd>
+                    <a href="/service/khirurgicheskoe-otdelenie/">Хирургия</a>
+            </dd>
+
+
+    <dd>
+                    <a href="/service/plasticheskie-operatsii/">Пластическая хирургия</a>
+            </dd>
+
+
+    <dd>
+                    <a href="/service/endoskopiya/">Центр проктологии и эндоскопии</a>
+            </dd>
+
+
+    <dd>
+                    <a href="/service/inye-meditsinskie-uslugi/">Иные медицинские услуги</a>
+            </dd>
+
+
+    <dd>
+                    <a target="_blank" href="http://deti-diagroup.ru/">Детская клиника «Диагрупп»</a>
+            </dd>
+
+
+    <dd>
+                    <a target="_blank" href="http://pmo-rb.ru">Поликлиника медицинских осмотров</a>
+            </dd>
+
+
+    <dd>
+                    <a href="/service/dobrovolnoe-meditsinskoe-strakhovanie/">Добровольное медицинское страхование</a>
+            </dd>
+
+
+    <dd>
+                    <a href="/service/kompleksnye-programmy-po-reabilitatsiya-posle-covid-19/">Комплексные программы по реабилитации после COVID-19</a>
+            </dd>
+
+
+    <dd>
+                    <a href="/service/meditsinskie-uslugi-na-domu/">Медицинские услуги на дому</a>
+            </dd>
+
+
+    <dd>
+                    <a href="/service/onlayn-konsultatsii/">Онлайн-консультации</a>
+            </dd>
+
+
+    <dd>
+                    <a href="/service/spetsialnye-predlozheniya/">Программа «Помоги себе и врачу!».</a>
+            </dd>
+
+
+                        </dl>
+                        <dl>
+                            <dt>Специалисты</dt>
+
+                            
+
+    <dd>
+        <a href="/spec/?SECTION=27">УЗИ</a>
+    </dd>
+
+
+    <dd>
+        <a href="/spec/?SECTION=23">Гинекология</a>
+    </dd>
+
+
+    <dd>
+        <a href="/spec/?SECTION=24">Хирургия</a>
+    </dd>
+
+
+    <dd>
+        <a href="/spec/?SECTION=102">Поликлиническое отделение</a>
+    </dd>
+
+
+    <dd>
+        <a href="/spec/?SECTION=22">Отделение ВРТ</a>
+    </dd>
+
+
+    <dd>
+        <a href="/spec/?SECTION=25">Лаборатория</a>
+    </dd>
+
+
+    <dd>
+        <a href="/spec/?SECTION=225">Центр проктологии и эндоскопии</a>
+    </dd>
+
+
+    <dd>
+        <a href="/spec/?SECTION=228">Стоматология</a>
+    </dd>
+
+
+    <dd>
+        <a href="/spec/?SECTION=221">Администрация</a>
+    </dd>
+
+
+                        </dl>
+                        <dl>
+                            <dt>Клиника</dt>
+                            <!--<dd><a href="/about/">О сети</a></dd>-->
+                            <dd><a href="/docs/">Информация для пациентов</a></dd>
+                            <dd><a href="/price/">Прейскурант цен</a></dd>
+                            <dd><a href="/feed/">Отзывы</a></dd>
+                            <!-- <dd><a href="/questions/">Вопросы и ответы</a></dd> -->
+                            <dd><a href="/vacancy/">Вакансии</a></dd>
+                            <dd><a href="/postavshchikam/">Поставщикам</a></dd>
+                            <dd><a href="/mobilnoe-prilozhenie/">Мобильное приложение</a></dd>
+                        </dl>
+                        <dl>
+                            <dt>Новости и статьи</dt>
+                            <dd><a href="/news/">Новости</a></dd>
+                            <dd><a href="/articles/">Статьи</a></dd>
+                            <dd><a href="/video/">Видео</a></dd>
+                        </dl>
+                        <dl>
+                            <dt>Филиалы</dt>
+
+                            <div id="comp_46028284b1d0a1f372e7d35a55173911">    <dd>
+        <a href="/offices/baykalskiy-obrazovatelnyy-tsentr/">Байкальский образовательный центр</a>
+    </dd>
+    <dd>
+        <a href="/offices/diagrupp-v-g-kyakhta/">«Диагрупп» в г. Кяхта</a>
+    </dd>
+    <dd>
+        <a href="/offices/diagrupp-na-smolina-61/">«Диагрупп» на Смолина, 61</a>
+    </dd>
+    <dd>
+        <a href="/offices/diamed-v-p-selenginsk-kabanskiy-rayon/">&quot;Диагрупп&quot; в п. Селенгинск (Кабанский район)</a>
+    </dd>
+    <dd>
+        <a href="/offices/poliklinika-meditsinskikh-osmotrov/">Поликлиника медицинских осмотров</a>
+    </dd>
+    <dd>
+        <a href="/offices/diamed-plyus-na-tereshkovoy/">Детская клиника &quot;Диагрупп&quot;</a>
+    </dd>
+    <dd>
+        <a href="/offices/diamed-v-g-petrovsk-zabaykalskiy-/">«Диагрупп» в г. Петровск-Забайкальский</a>
+    </dd>
+    <dd>
+        <a href="/offices/diamed-na-pavlova/">«Диагрупп» на Павлова, 61</a>
+    </dd>
+    <dd>
+        <a href="/offices/diamed-na-komsomolskoy/">Центр проктологии и эндоскопии</a>
+    </dd>
+    <dd>
+        <a href="/offices/diamed-na-ranzhurova/">«Диагрупп» на Ранжурова, 3</a>
+    </dd>
+    <dd>
+        <a href="/offices/diamed-v-111-kvartale/">«Диагрупп» в 111 квартале</a>
+    </dd>
+    <dd>
+        <a href="/offices/diamed-na-khakhalova/">«Диагрупп» на Хахалова,12</a>
+    </dd>
+
+</div>
+                        </dl>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="search-menu">
+            <div class="wrap">
+                <div class="search">
+                    <form action="/search/"><input name="q" type="search" placeholder="Поиск">
+                        <button type="submit"></button>
+                    </form>
+                </div>
+                <div class="search-menu-bot">
+                    <div class="close"></div>
+                </div>
+
+            </div>
+        </div>
+                <div class="header-top">
+            <div class="wrap">
+                <div class="mobile-lk-btn ayurlklink">
+                    						<!--Аюр добавил-->
+						<a href="https://diagrouprb.ru/lk/">Личный кабинет</a><br>
+						<a class="modal-btn" onclick="jQuery.arcticmodal('close');jQuery('#modal-lk').arcticmodal()" href="#">Личный кабинет старая версия</a>
+                                        <br>
+                      <a href="/pay/">Оплата онлайн</a> 
+
+                </div>
+                <div class="header-top-inner">
+                    <div class="all-sections">
+                        <div class="all-sections-link">Все разделы</div>
+                        <div class="all-sections-close">Закрыть</div>
+                    </div>
+                    <div class="info">
+                        <div class="work-time">Сегодня: <a href="/offices/"><b>с 8:00 до 18:00</b></a><br>
+Колл-центр: <a href="tel:8 (3012) 55-21-41"><b>+7 (3012) 55-21-41</b></a>
+</div>
+                        <div class="phone">
+							<a class="h_mess h_viber" href="viber://chat?number=%2B79834200132">Viber</a> <a class="h_mess h_whatsApp" href="https://wa.me/79834200132">WhatsApp</a><br>
+                            <b>+7 (983) 420-01-32</b>
+                        </div>
+                        <div class="viber-bot-dv">
+							<a href="/mobilnoe-prilozhenie/" class="mob_prilojenie">Мобильное приложение</a><br>
+                        </div>
+
+
+                    </div>
+
+                    <div class="mobile-menu-links">
+                        <div class="menu-lk-links ayurlklink">
+                            								<!--Аюр добавил-->
+								<a href="https://diagrouprb.ru/lk/">Личный кабинет</a><br>
+                                <a class="modal-btn" onclick="jQuery.arcticmodal('close');jQuery('#modal-lk').arcticmodal()" href="#">Личный кабинет старая версия</a>
+                                                    </div>
+
+
+                        <div class="menu-oplata-links">
+                              <a href="/pay/">Оплата онлайн</a> 
+                        </div>
+
+
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+        <div class="header-bot">
+            <div class="wrap">
+                <div class="header-bot-inner">
+                    <div class="logo">
+                        <a href="/"><img src="logoGroup.png" alt></a>
+                    </div>
+                    <div class="menutop">
+
+                        
+<ul>
+
+    
+        <li>
+            <a href="/service/">Услуги</a>
+        </li>
+
+    
+        <li>
+            <a href="/spec/">Специалисты</a>
+        </li>
+
+    
+        <li>
+            <a href="/news/">Новости и акции</a>
+        </li>
+
+    
+        <li>
+            <a href="/offices/">Филиалы</a>
+        </li>
+
+    
+        <li>
+            <a href="/check_up/">Check Up</a>
+        </li>
+
+    	<li style="margin: 0;"></li>
+
+</ul>
+                    </div>
+                    <div class="eye-link"><a class="to-bad" href="#"></a></div>
+                    <div class="search-link">
+                        <a href="#">
+                            <span class="sl-l">Поиск</span>
+                            <span class="sl-r" data-service onclick="jQuery.arcticmodal('close');jQuery('#modal-napriem').arcticmodal()">
+                                <i>Запись онлайн</i>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+<section class="error404">
+    <div class="title">404</div>
+    <div class="text">Страница не найдена. <a href="/">Перейти на главную.</a></div>
+</section>
+
+
+</main>
+
+
+<footer class="footer">
+    <div class="wrap">
+        <div class="footer-inner">
+            <div class="copyright">OOO «ДИАГРУПП»<br>
+                	<a target="_blank" href="/upload/iblock/419/4191f2b4af85d9741145b9fab89ab785.pdf">Лицензия ЛО41-00110-03/00588629 от 07.05.2020</a>
+            </div>
+            <div class="social">
+<!--
+                <a target="__blank" href="https://vk.com/diagrouprb">
+                    <img src="/local/templates/main/img/vk-b.png" alt="">
+                </a>
+
+                <a target="__blank" href="https://www.facebook.com/diagrouprb/">
+                    <img src="/local/templates/main/img/fb-b.png" alt="">
+                </a>
+-->
+				<a target="__blank" href="https://ok.ru/diamedrb">
+                    <img src="ok-b.png" alt>
+                </a>
+<!--
+                <a target="__blank" href="https://www.instagram.com/diagroup_rb/">
+                    <img src="/local/templates/main/img/inst-b.png" alt="">
+                </a>
+-->
+                <a href="viber://chat?number=%2B79834200132">
+                    <img src="viber.png">
+                </a>
+                <a href="https://t.me/diagroup_rb">
+                    <img src="tg-icon.png">
+                </a>
+
+
+
+            </div>
+
+
+
+
+
+        </div>
+    </div>
+
+
+
+
+
+
+</footer>
+
+<script src="../js/sb.js"></script>
+<script src="../js/arcticmodal.min.js"></script>
+<script src="../js/jquery.scrollbar.js"></script>
+<script src="../js/slick.js"></script>
+<script src="../js/jquery.cookie.js"></script>
+<script src="../js/jquery.formstyler.js"></script>
+<script src="../js/jquery.maskedinput.js"></script>
+<script src="../js/jquery.swipebox.js"></script>
+<script src="../js/jquery.matchHeight.js"></script>
+<script src="../js/init_3.js"></script>
+
+
+
+    <script src="../js/input.js"></script>
+
+
+<script src="../js/site.js"></script>
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(67307116, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/67307116" style="position:absolute; left:-9999px;" alt></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1770770609737895');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1770770609737895&amp;ev=PageView&amp;noscript=1"></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- calltouch code -->
+<script type="text/javascript">
+(function (w, d, nv, ls) {
+var lwait = function (w, on, trf, dly, ma, orf, osf) {var pfx = "ct_await_", sfx = "_completed";if (!w[pfx + on + sfx]) {var ci = clearInterval, si = setInterval, st = setTimeout, cmld = function() {if (!w[pfx + on + sfx]) { w[pfx + on + sfx] = true;if ((w[pfx + on] && (w[pfx + on].timer))) { ci(w[pfx + on].timer);w[pfx + on] = null;}orf(w[on]);}};if (!w[on] || !osf) {if (trf(w[on])){cmld();} else {if (!w[pfx + on]) {w[pfx + on] = {timer: si(function () {if (trf(w[on]) || ma < ++w[pfx + on].attempt) {cmld();}}, dly), attempt: 0};}}} else {if (trf(w[on])) {cmld();} else {osf(cmld);st(function(){lwait(w, on, trf, dly, ma, orf);}, 0);}}} else {orf(w[on]);}};
+var ct = function (w, d, e, c, n) { var a = 'all', b = 'tou', src = b + 'c' + 'h'; src = 'm' + 'o' + 'd.c' + a + src; var jsHost = "https://" + src, s = d.createElement(e); var jsf = function (w, d, s, h, c, n) { s.async = 1; s.src = jsHost + "." + "r" + "u/d_client.js?param;" + (c ? "client_id" + c + ";" : "") + "ref" + escape(d.referrer) + ";url" + escape(d.URL) + ";cook" + escape(d.cookie) + ";attrs" + escape("{\"attrh\":" + n + ",\"ver\":171110}") + ";"; var p = d.getElementsByTagName(e)[0]; p.parentNode.insertBefore(s, p); }; if (!w.jQuery) { var jq = d.createElement(e);jq.src = jsHost + "." + "r" + 'u/js/jquery-1.7.min.js'; jq.onload = function () {lwait(w, 'jQuery', function (obj) {return (obj ? true : false);}, 30, 100, function () {jsf(w, d, s, jsHost, c, n);});}; var p = d.getElementsByTagName(e)[0]; p.parentNode.insertBefore(jq, p); } else { jsf(w, d, s, jsHost, c, n);}};
+var gaid = function (w, d, o, ct, n) {if (!!o) {lwait(w, o, function (obj) {return (obj && obj.getAll ? true : false);}, 200, (nv.userAgent.match(/Opera|OPR\//) ? 10 : 20), function (gaCounter) {var clId = null;try {var cnt = gaCounter && gaCounter.getAll ? gaCounter.getAll() : null;clId = cnt && cnt.length > 0 && !!cnt[0] && cnt[0].get ? cnt[0].get('clientId') : null;} catch (e) {console.warn("Unable to get clientId, Error: " + e.message);}ct(w, d, 'script', clId, n);}, function (f) {w[o](function () {f(w[o]);})});} else {ct(w, d, 'script', null, n);}};
+var cid = function () {try {var m1 = d.cookie.match('(?:^|;)\\s*_ga=([^;]*)');if (!(m1 && m1.length > 1)) return null;var m2 = decodeURIComponent(m1[1]).match(/(\d+\.\d+)$/);if (!(m2 && m2.length > 1)) return null;return m2[1]} catch (err) {}}();
+if (cid === null && !!w.GoogleAnalyticsObject) {
+    if (w.GoogleAnalyticsObject == 'ga_ckpr') w.ct_ga = 'ga'; else w.ct_ga = w.GoogleAnalyticsObject;
+    if (typeof Promise !== "undefined" && Promise.toString().indexOf("[native code]") !== -1) { new Promise(function (resolve) {var db, on = function () {resolve(true)}, off = function () {resolve(false)}, tryls = function tryls() {try {ls && ls.length ? off() : (ls.x = 1, ls.removeItem("x"), off());} catch (e) {nv.cookieEnabled ? on() : off();}}; w.webkitRequestFileSystem ? webkitRequestFileSystem(0, 0, off, on) : "MozAppearance" in d.documentElement.style ? (db = indexedDB.open("test"), db.onerror = on, db.onsuccess = off) : /constructor/i.test(w.HTMLElement) ? tryls() : !w.indexedDB && (w.PointerEvent || w.MSPointerEvent) ? on() : off();}).then(function (pm) {
+        if (pm) {gaid(w, d, w.ct_ga, ct, 2);} else {gaid(w, d, w.ct_ga, ct, 3);}})} else {gaid(w, d, w.ct_ga, ct, 4);}
+} else {ct(w, d, 'script', cid, 1);}})
+(window, document, navigator, localStorage);
+</script>
+<!-- /calltouch code -->
+
+<!--
+<div>
+    <script type="text/props">{
+       "clinicToken": "$2y$10$4XYOVI11B3/h7CgD56GfqeSbx9v./eaxDHhWn466TigYrGQ4sv6r2",
+       "apiEndpoint": "https://api.ibolit.pro"
+     }</script>
+     <script async src="https://widget-two.ibolit.pro/widget.js" type="text/javascript"></script>
+</div>
+-->
+
+</body>
+</html>

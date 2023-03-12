@@ -1,0 +1,54 @@
+/*Обычный вид*/
+.fields-border  {
+	width: 30%;	
+	margin-top:5px;	
+    }
+	
+		
+/*для мобильных телефонов */	
+@media(max-width:480px){
+ .fields-border {
+	width: 100%;		
+	margin-top:5px;
+   
+   }
+}
+/*оформление поля*/
+.field-oplata  {	
+	margin-top:5px;	
+	border: 1px solid #F55310;
+    }
+
+
+ 
+/*скрыть */
+ .oplata-none{
+    display: none;	 
+ }
+ /*показать блок */
+ .oplata-active{
+    display: block;
+ }
+ 
+ 
+/*красная линия*/ 
+ .hr-red {
+	 border: none; 
+	 background-color: #F55310;  
+	 color: #F55310; 
+	 height: 2px;	 
+ }
+ 
+ .chk-ids{
+	 font:italic 13pt 'Fira Sans', serif;	 
+ }
+ .btn-pay{
+	  margin-left:5px;
+	  padding-top:10px;
+	  padding-bottom:10px; 
+	  padding-left:30px; 
+	  padding-right:30px; 
+	  background:#18c139;
+	  color: #fff;
+}
+
